@@ -1,0 +1,1 @@
+print("insaan ke bachy")
